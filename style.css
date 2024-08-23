@@ -380,16 +380,16 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     left: 40px;
     color: rgb(172, 172, 172);
-    bottom: -6px;
+    bottom: -12px;
 }
 
 .mode {
     position: relative;
-    font-size: 14px;
-    border: 2px solid rgb(172, 172, 172);
+    font-size: 15px;
+    border: 2px solid rgb(228, 228, 228);
     background-color: white;
-    width: 320px;
-    height: 30px;
+    width: 380px;
+    height: 40px;
     left: 750px;
     bottom: 1930px;
     border-radius: 7px;
@@ -399,7 +399,7 @@
     position: relative;
     width: 27px;
     left: 755px;
-    bottom: 1975px;
+    bottom: 1980px;
 }
 
 .olp {
@@ -437,7 +437,7 @@
     position: relative;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    bottom: 2120px;
+    bottom: 2130px;
     left: 450px;
 }
 
@@ -445,7 +445,7 @@
     position: relative;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    bottom: 2154px;
+    bottom: 2164px;
     left: 610px;
 }
 
@@ -453,7 +453,7 @@
     position: relative;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    bottom: 2188px;
+    bottom: 2198px;
     left: 750px;
 }
 
@@ -461,7 +461,7 @@
     position: relative;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    bottom: 2222px;
+    bottom: 2232px;
     left: 910px;
 }
 
@@ -504,7 +504,7 @@
 .olp {
     position: relative;
     width: 60px;
-    bottom: 2390px;
+    bottom: 2400px;
     left: 40px;
 }
 
@@ -521,7 +521,7 @@
 .local {
     position: relative;
     width: 15px;
-    bottom: 3043px;
+    bottom: 3054px;
     left: 235px;
 }
 
@@ -579,8 +579,9 @@
     position: relative;
     border: 1px solid rgb(230, 230, 230);
     background-color: white;
-    height: 75px;
+    height: 85px;
     width: 0px;
-    bottom: 3448px;
+    bottom: 3459px;
     left: 1070px;
 }
+
