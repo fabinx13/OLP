@@ -1,4 +1,4 @@
-.locc{
+.locc {
     position: relative;
     font-size: 13px;
     width: 320px;
@@ -8,21 +8,21 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.loc{
+.loc {
     position: relative;
     left: 50px;
     bottom: -90px;
 }
 
-.dig{
+.dig {
     position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     left: 8px;
     color: rgb(172, 172, 172);
     bottom: -3px;
 }
-    
-.digit{
+
+.digit {
     position: relative;
     font-size: 12px;
     border: 2px solid rgb(172, 172, 172);
@@ -34,7 +34,7 @@
     border-radius: 7px;
 }
 
-.linha{
+.linha {
     position: relative;
     border: 1px solid rgb(172, 172, 172);
     background-color: white;
@@ -44,7 +44,7 @@
     left: 25px;
 }
 
-.oq{
+.oq {
     position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 13px;
@@ -52,7 +52,7 @@
     left: 30px;
 }
 
-.um{
+.um {
     position: relative;
     border: 1px solid rgb(172, 172, 172);
     background-color: white;
@@ -63,7 +63,7 @@
     border-radius: 5px;
 }
 
-.dois{
+.dois {
     position: relative;
     border: 1px solid rgb(172, 172, 172);
     background-color: white;
@@ -74,7 +74,7 @@
     border-radius: 5px;
 }
 
-.tres{
+.tres {
     position: relative;
     border: 1px solid rgb(172, 172, 172);
     background-color: white;
@@ -85,7 +85,7 @@
     border-radius: 5px;
 }
 
-.quatro{
+.quatro {
     position: relative;
     border: 1px solid rgb(172, 172, 172);
     background-color: white;
@@ -96,7 +96,7 @@
     border-radius: 5px;
 }
 
-.cinco{
+.cinco {
     position: relative;
     border: 1px solid rgb(172, 172, 172);
     background-color: white;
@@ -107,7 +107,7 @@
     border-radius: 5px;
 }
 
-.super{
+.super {
     position: relative;
     font-size: 14px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -115,7 +115,7 @@
     left: 60px;
 }
 
-.car{
+.car {
     position: relative;
     font-size: 14px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -123,7 +123,7 @@
     left: 60px;
 }
 
-.visao{
+.visao {
     position: relative;
     font-size: 14px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -131,7 +131,7 @@
     left: 60px;
 }
 
-.troca{
+.troca {
     position: relative;
     font-size: 14px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -139,7 +139,7 @@
     left: 60px;
 }
 
-.visto{
+.visto {
     position: relative;
     font-size: 14px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -147,34 +147,34 @@
     left: 60px;
 }
 
-.umm{
+.umm {
     position: relative;
     font-size: 11px;
     color: rgb(184, 184, 184);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     bottom: 960px;
-    left: 60px; 
+    left: 60px;
 }
 
-.doiss{
+.doiss {
     position: relative;
     font-size: 11px;
     color: rgb(184, 184, 184);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     bottom: 920px;
-    left: 60px;  
+    left: 60px;
 }
 
-.tress{
+.tress {
     position: relative;
     font-size: 11px;
     color: rgb(184, 184, 184);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     bottom: 823px;
-    left: 60px; 
+    left: 60px;
 }
 
-.quatroo{
+.quatroo {
     position: relative;
     font-size: 11px;
     color: rgb(184, 184, 184);
@@ -183,16 +183,16 @@
     left: 60px;
 }
 
-.cincoo{
+.cincoo {
     position: relative;
     font-size: 11px;
     color: rgb(184, 184, 184);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     bottom: 808px;
-    left: 60px;   
+    left: 60px;
 }
 
-.ano{
+.ano {
     position: relative;
     bottom: 770px;
     left: 30px;
@@ -200,7 +200,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.dee{
+.dee {
     position: relative;
     bottom: 770px;
     left: 30px;
@@ -210,25 +210,25 @@
     height: 28px;
     font-size: 13px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.de{
+.de {
     position: relative;
     bottom: -5px;
     left: 8px;
     color: rgb(172, 172, 172);
 }
 
-.ate{
+.ate {
     position: relative;
     bottom: -5px;
     left: 8px;
     color: rgb(172, 172, 172);
 }
 
-.atee{
-    
+.atee {
+
     position: relative;
     bottom: 813px;
     left: 160px;
@@ -238,45 +238,45 @@
     height: 28px;
     font-size: 13px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.ex{
+.ex {
     position: relative;
     bottom: 828px;
     left: 32px;
     font-size: 11px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(172, 172, 172);
 }
 
-.exx{
+.exx {
     position: relative;
     bottom: 863px;
     left: 162px;
     font-size: 11px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    color: rgb(172, 172, 172); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(172, 172, 172);
 }
 
-.Preço{
+.Preço {
     position: relative;
     bottom: 850px;
     left: 30px;
     font-size: 13px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.de1{
+.de1 {
     position: relative;
     bottom: -5px;
     left: 8px;
     color: rgb(172, 172, 172);
 }
 
-.de2{
+.de2 {
     position: relative;
     bottom: 850px;
     left: 30px;
@@ -286,17 +286,17 @@
     height: 28px;
     font-size: 13px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.ate1{
+.ate1 {
     position: relative;
     bottom: -5px;
     left: 8px;
     color: rgb(172, 172, 172);
 }
 
-.ate2{
+.ate2 {
     position: relative;
     bottom: 893px;
     left: 160px;
@@ -306,31 +306,31 @@
     height: 28px;
     font-size: 13px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.ex1{
+.ex1 {
     position: relative;
     bottom: 907px;
     left: 33px;
     font-size: 11px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    color: rgb(172, 172, 172); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(172, 172, 172);
 }
 
 
-.ex2{
+.ex2 {
     position: relative;
     bottom: 942px;
     left: 162px;
     font-size: 11px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    color: rgb(172, 172, 172); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(172, 172, 172);
 }
 
-.limparr{
+.limparr {
     position: relative;
     bottom: 940px;
     left: 25px;
@@ -340,17 +340,17 @@
     height: 28px;
     font-size: 13px;
     border-radius: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.limpar{
+.limpar {
     position: relative;
     bottom: -5px;
     left: 90px;
     color: rgb(172, 172, 172);
 }
 
-.carro{
+.carro {
     position: relative;
     bottom: -90px;
     left: 60px;
@@ -358,16 +358,16 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.moto{
+.moto {
     position: relative;
     bottom: -48px;
-    left: 250px;
+    left: 220px;
     font-size: 20px;
     color: rgb(139, 139, 139);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.lin{
+.lin {
     position: relative;
     bottom: 1860px;
     left: 58px;
@@ -375,7 +375,7 @@
     color: red;
 }
 
-.mod{
+.mod {
     position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     left: 40px;
@@ -383,7 +383,7 @@
     bottom: -6px;
 }
 
-.mode{
+.mode {
     position: relative;
     font-size: 14px;
     border: 2px solid rgb(172, 172, 172);
@@ -391,49 +391,49 @@
     width: 320px;
     height: 30px;
     left: 750px;
-    bottom: 1940px;
+    bottom: 1930px;
     border-radius: 7px;
 }
 
-.lupa{
-    position: relative; 
+.lupa {
+    position: relative;
     width: 27px;
     left: 755px;
-    bottom: 1985px;
+    bottom: 1975px;
 }
 
-.olp{
-    position: relative; 
+.olp {
+    position: relative;
     width: 27px;
     left: 813px;
     bottom: 1995px;
 }
 
-.seta{
+.seta {
     position: relative;
     width: 27px;
-    bottom: 1988px;
+    bottom: 1978px;
     left: 1180px;
 }
 
-.seta2{
+.seta2 {
     position: relative;
     width: 27px;
-    bottom: 1988px;
+    bottom: 1978px;
     left: 1175px;
     transform: rotate(180deg);
 }
 
-.mais{
+.mais {
     position: relative;
     font-size: 11px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(134, 134, 134);
-    bottom: 2020px;
+    bottom: 2012px;
     left: 1275px;
 }
 
-.comp{
+.comp {
     position: relative;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -441,7 +441,7 @@
     left: 450px;
 }
 
-.vend{
+.vend {
     position: relative;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -449,7 +449,7 @@
     left: 610px;
 }
 
-.serv{
+.serv {
     position: relative;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -457,7 +457,7 @@
     left: 750px;
 }
 
-.ajud{
+.ajud {
     position: relative;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -465,62 +465,122 @@
     left: 910px;
 }
 
-.engrenagem{
+.engrenagem {
     position: relative;
     width: 25px;
-    bottom: 2270px;
+    bottom: 2275px;
     left: 1325px;
-    
+
 }
 
-.coracao{
+.coracao {
     position: relative;
     width: 50px;
-    bottom: 2270px;
+    bottom: 2275px;
     left: 1200px;
 }
 
-.perfil{
+.perfil {
     position: relative;
     width: 40px;
     bottom: 2270px;
     left: 1000px;
 }
 
-.mensagem{
+.mensagem {
     position: relative;
     width: 35px;
-    bottom: 2263px;
+    bottom: 2269px;
     left: 1195px;
 }
 
-.entrar{
+.entrar {
     position: relative;
     bottom: 2320px;
     left: 1170px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.olp{
+.olp {
     position: relative;
     width: 60px;
-    bottom: 2380px;
-    left:  40px;
+    bottom: 2390px;
+    left: 40px;
 }
 
-.quadrado{
+.quadrado {
     position: relative;
     border: 2px solid rgb(235, 235, 235);
     background-color: rgb(235, 235, 235);
     width: 1111px;
     height: 800px;
-    bottom: 2310px;
+    bottom: 2305px;
     left: 300px;
 }
 
-.local{
+.local {
     position: relative;
     width: 15px;
     bottom: 3043px;
     left: 235px;
+}
+
+.home {
+    position: relative;
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 3120px;
+    left: 320px;
+}
+
+.ca {
+    position: relative;
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 3141px;
+    left: 370px;
+}
+
+.novo {
+    position: relative;
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 3162px;
+    left: 425px;
+}
+
+.olper {
+    position: relative;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 3150px;
+    left: 350px;
+}
+
+.encontrados {
+    position: relative;
+    font-size: 13px;
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 3165px;
+    left: 350px;
+}
+
+.linho {
+    position: relative;
+    border: 1px solid rgb(230, 230, 230);
+    background-color: white;
+    width: 1420px;
+    bottom: 3370px;
+    left: -7px;
+}
+
+.linho2 {
+    position: relative;
+    border: 1px solid rgb(230, 230, 230);
+    background-color: white;
+    height: 75px;
+    width: 0px;
+    bottom: 3448px;
+    left: 1070px;
 }
