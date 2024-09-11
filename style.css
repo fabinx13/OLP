@@ -1185,6 +1185,195 @@
     bottom: -4px;
 }
 
+.quadradinho{
+    position: relative;
+    border: 2px solid rgb(235, 235, 235);
+    background-color: rgb(235, 235, 235);
+    width: 1111px;
+    height: 450px;
+    bottom: 5655px;
+    left: 300px;
+}
+
+.limpeza{
+    position: relative;
+    width: 180px;
+    bottom: 6030px;
+    left: 450px;
+    border-radius: 5px;
+}
+
+.leds{
+    position: relative;
+    width: 180px;
+    bottom: 6030px;
+    left: 500px;
+    border-radius: 5px;
+}
+
+.aromatizante{
+    position: relative;
+    width: 180px;
+    bottom: 6030px;
+    left: 550px;
+    border-radius: 5px;
+}
+
+.carregador{
+    position: relative;
+    width: 180px;
+    height: 180px;
+    bottom: 6030px;
+    left: 600px;
+    border-radius: 5px;
+}
+
+.produtos{
+    position: relative;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6300px;
+    left: 350px;
+}
+
+.mini1{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 180px;
+    height: 100px;
+    bottom: 6097px;
+    left: 450px;
+    border-radius: 3px;
+}
+
+.mini2{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 180px;
+    height: 100px;
+    bottom: 6199px;
+    left: 684px;
+    border-radius: 3px;
+}
+
+.mini3{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 180px;
+    height: 100px;
+    bottom: 6300px;
+    left: 918px;
+    border-radius: 3px;
+}
+
+.mini4{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 180px;
+    height: 100px;
+    bottom: 6398px;
+    left: 1152px;
+    border-radius: 3px;
+}
+
+.limpezaa{
+    position: relative;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6490px;
+    left: 465px;
+    color: rgb(134, 134, 134);
+}
+
+.fita{
+    position: relative;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6520px;
+    left: 700px;
+    color: rgb(134, 134, 134);
+}
+
+.kit-pretinho{
+    position: relative;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6550px;
+    left: 935px;
+    color: rgb(134, 134, 134);
+}
+
+.veicular{
+    position: relative;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6580px;
+    left: 1165px;
+    color: rgb(134, 134, 134);
+}
+
+.preçoo1{
+    position: relative;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6560px;
+    left: 465px;
+}
+
+.preçoo2{
+    position: relative;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6595px;
+    left: 700px;
+}
+
+.preçoo3{
+    position: relative;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6628px;
+    left: 935px;
+}
+
+.preçoo4{
+    position: relative;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 6662px;
+    left: 1165px;
+}
+
+.estrelas{
+    position: relative;
+    width: 65px;
+    bottom: 6760px;
+    left: 550px;
+}
+
+.estrelas2{
+    position: relative;
+    width: 65px;
+    bottom: 6760px;
+    left: 715px;
+}
+
+.estrelas3{
+    position: relative;
+    width: 65px;
+    bottom: 6760px;
+    left: 880px;
+}
+
+.estrelas4{
+    position: relative;
+    width: 65px;
+    bottom: 6760px;
+    left: 1045px;
+}
+
+
+
 
 
 
